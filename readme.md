@@ -7,7 +7,7 @@ OSUMS[Open Source University Management System]
 # Installation and use
 ### OSUMS is build using Laravel 5.2
 ```
-$ git clone https://github.com/hrshadhin/osums.git
+$ git clone https://github.com/rizwan3d/osums.git
 ```
 ```
 $ cd osums
@@ -32,11 +32,6 @@ $ php artisan db:seed
 $ php artisan serve
 ```
 **  http://localhost:8000 **
-USER: admin
-PASS: demo123
-
-# Demo Live Link
-URL: http://osums.hrshadhin.me
 USER: admin
 PASS: demo123
 
